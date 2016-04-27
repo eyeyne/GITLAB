@@ -5,8 +5,8 @@ void main()
   int i;
   do
   {
-    printf("What is your Name? ");
-    scanf("%s", Name);
+    printf("What is your NickName? ");
+    scanf("%s", NickName);
     do
     {
       printf("What is your blood group [A, B, AB, or O]? ");
