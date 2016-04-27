@@ -33,7 +33,11 @@ void main()
     }
     else if (strcmp(G, "AB") == 0)
     {
+<<<<<<< HEAD
       printf("%s, AB. Good, you can give blood only to: AB.\n", Name);
+=======
+      printf("%s, AB. Oh my God, you can give blood only to: AB.\n", Name);
+>>>>>>> acbdb903ab6ec0d6ce0b2f6a46809352bb1c2822
       printf("  Wow, you can receive blood from all: O, A, B, AB.\n");
     }
     else
